@@ -1,0 +1,13 @@
+# Datos y modelos grandes 
+MSL-ABC.7z 
+lsm_dataset/ 
+data/ 
+# Credenciales 
+kaggle.json 
+# Python 
+__pycache__/ 
+.ipynb_checkpoints/ 
+*.pyc 
+# Archivos temporales 
+hand_landmarker.task 
+model.ipynb 
